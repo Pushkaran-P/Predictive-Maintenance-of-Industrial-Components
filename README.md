@@ -1,9 +1,7 @@
-# Anomaly-Analysis
+# Predictive Maintenance of Industrial Components
 
-- Show the degradation of the component over the course of the year. 
-  - Has the component been replaced at some point? 
-  - If the wear can be predicted accurately, a remaining useful life prediction can be made in order to determine maintenance windows (predictive maintenance).
+- Objective: The goal of this project is to analyze the degradation of an industrial component over the course of a year. By answering questions such as whether the component has been replaced at some point, and if its wear can be accurately predicted, we aim to determine maintenance windows through predictive maintenance.
 
-- Dataset : https://www.kaggle.com/datasets/inIT-OWL/one-year-industrial-component-degradation
+- Data: The dataset used for this project is available on Kaggle and can be accessed through this link: https://www.kaggle.com/datasets/inIT-OWL/one-year-industrial-component-degradation
 
-- Implemented using K-Means Clustering (k=1) and One Class SVM with RBF Kernalization
+- Methodology: To achieve our objective, we will implement K-Means Clustering with k=1 and One Class SVM with RBF Kernalization.
